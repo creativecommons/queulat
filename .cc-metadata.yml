@@ -1,0 +1,5 @@
+# Whether this GitHub repo is for a CC-led engineering project
+# Marking this as false because it's a fork of a project that is maintained outside CC
+engineering_project: false
+# Whether this repository should be featured on the CC Open Source site's "Projects" page
+featured: false
